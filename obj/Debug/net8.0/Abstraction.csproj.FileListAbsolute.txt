@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/bin/Debug/net8.0/Abstraction
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/bin/Debug/net8.0/Abstraction.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/bin/Debug/net8.0/Abstraction.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/bin/Debug/net8.0/Abstraction.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/bin/Debug/net8.0/Abstraction.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/refint/Abstraction.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/Abstraction.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/Abstraction/obj/Debug/net8.0/ref/Abstraction.dll
